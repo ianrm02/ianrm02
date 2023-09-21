@@ -1,8 +1,7 @@
 - Hi, I’m Ian Marchbank
-- I’m interested in Powerlifting, Teaching/Coaching, Armwrestling, and Film analysis
+- I’m interested in Weight lifting, Teaching, Coaching Gymnastics, and Film analysis
 - I’m currently woriking on my computer science degree at the Colorado School of Mines
-- I am proficient in Python and C++
-- If you would like access to my private library of works please email me at imarchbank@mines.edu
+- I am proficient in Python, C++, SQL, and Java.
 
 <!---
 ianrm02/ianrm02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
