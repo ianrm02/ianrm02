@@ -1,6 +1,7 @@
 - Hi, I’m Ian Marchbank
-- I’m interested in Weight lifting, Teaching, Coaching Gymnastics, and Film analysis
-- I’m currently woriking on my computer science degree at the Colorado School of Mines
+- I’m interested in Yoga, Teaching, Language Learning, and Reading
+- I have a degree in CS from the Colorado School of Mines
+and am working on a Masters in AI at the University of Texas, Austin
 - I am proficient in Python, C++, SQL, and Java.
 
 <!---
